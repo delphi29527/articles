@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2020-10-22T06:25:33.765Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" version="13.8.1" etag="8goky53wWb4APF8upIH0" type="github"><diagram id="n2x-5a-mX8-4pS9DM7Q-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-22T06:29:05.742Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15" etag="IjncpaqpYyc6tqcJoCmx" version="13.8.1" type="github">
+  <diagram id="n2x-5a-mX8-4pS9DM7Q-" name="Page-1">
+    <mxGraphModel dx="946" dy="662" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="edx0MYt2cFUggFFJAduf-1" value="Administer&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="180" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edx0MYt2cFUggFFJAduf-2" value="Approve subscriptions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="180" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edx0MYt2cFUggFFJAduf-3" value="Disable subscriptions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edx0MYt2cFUggFFJAduf-5" value="Customer" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="edx0MYt2cFUggFFJAduf-6" value="Apply for a subscription" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="340" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edx0MYt2cFUggFFJAduf-7" value="Pay for subscriptions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="220" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
